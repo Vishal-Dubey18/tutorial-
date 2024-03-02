@@ -1,3 +1,3 @@
 # tutorial-
 just stated<br>
-author -<b>vishal dubey</b>
+author -<b>Vishal dubey</b>
